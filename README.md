@@ -1,6 +1,6 @@
 ## About Fileedge
 
-<strong>Novashare</strong> is an online file sharing platform that can be used to share multiple files between clients, partners and colleagues. Files can be shared via a url that can be shared with anyone you wish.
+<strong>Filedge</strong> is an online file sharing platform that can be used to share multiple files between clients, partners and colleagues. Files can be shared via a url that can be shared with anyone you wish.
 
 ### Front End Features
 Upload multiple files free with or without an account
